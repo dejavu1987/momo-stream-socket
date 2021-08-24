@@ -1,0 +1,12 @@
+{
+  "name": "momo-stream-socket",
+  "version": "1.0.0",
+  "description": "Socket backend to communicate momo stream overlay updates",
+  "main": "./index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "socket.io": "4.1.3"
+  }
+}
